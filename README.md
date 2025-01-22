@@ -1,5 +1,5 @@
 # anycubic-Kobra-2-klipper
-## This work is the copy of [Function3D](https://function3d.xyz/en/how-to-install-klipper-on-anycubic-kobra-2/) and [Crororo](https://crororo.blogspot.com/kobra2klipper), but modified for my environment. Visit their website first. 
+## This is the copy of [Function3D](https://function3d.xyz/en/how-to-install-klipper-on-anycubic-kobra-2/) and [Crororo](https://crororo.blogspot.com/kobra2klipper), modified for my environment. Visit their website first. 
 
 #### Files listed here
 1 My printer.cfg and variables.cfg for klipper
